@@ -1,5 +1,5 @@
-# Daily Plans
-Set some plans and try to finsih them.
+# Daily Plans :+1:
+Set some plans and try to finsih them. 
 * 2020年3月27日21点04分----->明日周六  
   - [ ] 完成材料力学作业并复习扭转部分内容
   - [ ] 巩固机械设计知识点，完成齿轮部分练习题
